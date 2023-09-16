@@ -9,3 +9,6 @@ I Love You To The Moon And Back is a photo messaging app that allows users to co
 
 ## About
 The app was created with Swift in XCode and prototyped in [Figma](https://www.figma.com/file/iJYg5F0IpnxvazovlnpSF4/Moon-and-Back-Storyboard?type=design&node-id=0%3A1&mode=design&t=uTRyXdeeg8TD94vg-1) by Muskan, Pranavi, Devangi, and Anna. Enjoy!
+
+## App Walkthrough
+![](https://imgur.com/a/fExArAf)
